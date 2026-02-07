@@ -15,12 +15,14 @@ target behaviors
 
 select mechanics
     ออกแบบ Mini Game จำนวน 3-4 เกม ภายใต้ธีมเดียวกัน
+    0. ผู้เล่นทุกคนจะต้องกรอกชื่อตัวเองก่อน
     1. รูปแบบโดยรวม
         - เป็น เกมตะลุยด่าน (Level-based / Mission-based)
     2. แต่ละด่านมี
         - เนื้อเรื่อง (Narrative)
         - สถานการณ์จำลองในที่ทำงาน
         - คำถาม / การตัดสินใจ / Puzzle
+        - เป็นลักษณะเกมส์บอร์ด
     3. ผู้เล่นสะสมคะแนนจาก
         - การตอบคำถามถูก
         - การตัดสินใจที่ยั่งยืน
@@ -28,6 +30,7 @@ select mechanics
     4. npc ในเกมจะมี
         - ผู้สัมภาษณ์ ตัวละครในการคอยถาม https://github.com/pasunim/image-cdn/blob/main/hrd.png
         - ผู้เล่น ตัวละครหลักในการเดินเรื่อง https://github.com/pasunim/image-cdn/blob/main/office-worker.jpg
+    5. เมื่อตอบคำถามครบ 10 ข้อแล้วจะมีการสรุปคะแนน และให้รางวัล ช่วยคิดต่อให้ด้วย
 
 feedback & rewards
     1. คะแนน (Points)
